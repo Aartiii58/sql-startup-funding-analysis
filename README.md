@@ -33,4 +33,4 @@ Key Analysis Performed:
 
 Conclusion:
 This project demonstrates practical use of SQL for data cleaning and analysis. It highlights the importance of structured querying, data accuracy, and extracting actionable insights from raw datasets.
-
+(dataset used from kaggle)
